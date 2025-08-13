@@ -14,7 +14,7 @@ My Own configurations files for xfce4, sway, nvim, alacritty, etc
 
 ---
 
-## How to run
+## How to use
 
 ### XFCE
 
