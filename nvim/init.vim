@@ -1,1 +1,1 @@
-../../.config/nvim/init.vim
+/home/youssef/.config/nvim/init.vim
